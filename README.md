@@ -2,7 +2,7 @@
 
 ## Snapshot of Dashboard (Power BI Service)
 
-![Dashboard_Snapshot](https://app.powerbi.com/view?r=eyJrIjoiZDBhZjgzNGQtYjk3MS00NWNiLWEyZWUtYjRhMmY3NTMxYmY1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+![Dashboard_Snapshot](https://github.com/kscheran93/Power-BI-Olympics-120-years-of-history-dashboard/blob/main/olympic%20picture.png)
 
 ### Dashboard Link: [Power BI Dashboard Link](https://github.com/kscheran93/Power-BI-Olympics-120-years-of-history-dashboard/blob/main/olympic%20picture.png)
 

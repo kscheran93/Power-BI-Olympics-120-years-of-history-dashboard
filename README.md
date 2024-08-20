@@ -4,9 +4,9 @@
 
 ![Dashboard_Snapshot](https://app.powerbi.com/view?r=eyJrIjoiZDBhZjgzNGQtYjk3MS00NWNiLWEyZWUtYjRhMmY3NTMxYmY1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-### Dashboard Link: [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZDBhZjgzNGQtYjk3MS00NWNiLWEyZWUtYjRhMmY3NTMxYmY1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+### Dashboard Link: [Power BI Dashboard Link](https://github.com/kscheran93/Power-BI-Olympics-120-years-of-history-dashboard/blob/main/olympic%20picture.png)
 
-### Dataset link (https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+### Dataset link : [link](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 ## Problem Statement
 
 This dashboard offers a comprehensive analysis of 120 years of Olympic history, including athlete performances, medal distributions, and trends over time. By analyzing various aspects such as sports, gender, year, city, medal types, and seasons, stakeholders can gain valuable insights into Olympic trends, key contributors, and evolving participation patterns.
